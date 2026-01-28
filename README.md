@@ -1,1 +1,39 @@
-# Ytta-ygy-nama-saya-jokodrian
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Andrian Widodo</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body style="background-color : white ;">
+  <header>
+    <hrf></hrf>
+<h3>Hai nama saya Jokodrian</h3>
+<br></br>
+    <img src="file_00000000b60872089002192b1bb5590c.png"</img>
+<p>sebenarnya saya adalah pria solo itu, tapi saya merahasiakannya dari publik</p>
+<br></br>
+<h1>Saya akan mengungkapkan identitas asli saya.........</h1>
+<br></br>
+<h1>1.Nama asli saya</h1>
+<p>Nama saya adalah Jokodrian, saya adalah mantan presiden ke 7 Indonesia dan akan tetap melegenda</p>
+<br></br>
+<h1>2.Data pribadi saya</h1>
+<p>Saya lahir tanggal 28 september 2010 di Solo, kota kelahiran saya</p>
+<br></br>
+<p>Tujuan saya kedepan adalah menjadi pria solo yang berbakti kepada negara</p>
+<br></br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/naz0-szzYXk?si=T1GTqhob1b2BdLCa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h3>IKLAN!!!</h3>
+<p>Produk saya adalah parfum siliwangi, beli di keranjang kuning</p>
+<a href = https://www.tiktok.com/@yan_ajagasi?_r=1&_t=ZS-93QzcQX5vV7</a>
+
+
+
+<br></br>
+  <footer>
+    <p>&copy; </p>
+  </footer>
+</body>
+</html>
